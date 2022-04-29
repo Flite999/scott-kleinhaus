@@ -53,7 +53,7 @@ export default function Home() {
             11:45 - service begins, military honors and words by pastor
           </li>
           <li>
-            12:00 - service ends, break for lunch at <a href="https://goo.gl/maps/6Zf5VXQ6AgQoEBLE7">Hoban</a>
+            12:00 - service ends, break for lunch at <a href="https://goo.gl/maps/V7iBh3bhpb3dhS6V8">Olivia's Organic Cafe</a>
           </li>
           <li>
             2:00 - back to Fort Snelling to pay respects at gravesite
